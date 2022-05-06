@@ -199,7 +199,7 @@ address {
     height: 4px;
 
     background: var(--accent-color);
-    border: 1px solid var(--white-color);
+    border: 1px solid var(--accent-color);
     box-sizing: border-box;
     border-radius: 2px;
 }
